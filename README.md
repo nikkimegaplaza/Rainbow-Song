@@ -1,2 +1,3 @@
 # Rainbow-Song
-a repo about a rainbow song
+
+a repo about a rainbow song in the key of C major. 
